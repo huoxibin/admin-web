@@ -1,0 +1,169 @@
+.news-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/news-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.system-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/system-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.department-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/department-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.staff-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/staff-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Jurisdiction-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/Jurisdiction-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.position-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/position-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.region-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/region-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.log-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/log-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.role-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/role-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.user-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/user-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.doctor-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/doctor-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.commodity-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/commodity-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mechanism-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/mechanism-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.library-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/基础管理1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.order-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/order-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.count-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/count-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.finance-icon {
+  display: inline-block;
+  width: 24px;
+  margin-right: 5px;
+  height: 24px;
+  background-image: url("./images/finance-active.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
